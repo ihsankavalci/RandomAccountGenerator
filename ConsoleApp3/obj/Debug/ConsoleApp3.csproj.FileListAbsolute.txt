@@ -1,0 +1,8 @@
+c:\users\ihsan.kavalci\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+c:\users\ihsan.kavalci\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+c:\users\ihsan.kavalci\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+c:\users\ihsan.kavalci\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\Newtonsoft.Json.dll
+c:\users\ihsan.kavalci\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\Newtonsoft.Json.xml
+c:\users\ihsan.kavalci\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csprojResolveAssemblyReference.cache
+c:\users\ihsan.kavalci\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+c:\users\ihsan.kavalci\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
